@@ -99,7 +99,8 @@ Select “Redirect all traffic to HTTPS”
 ``` bash
 https://yourdomain.com
 ```
-!!(https://github.com/shekharnandal/ec2-hosted/blob/main/Screenshot%202025-11-21%20133804.png?raw=true)
+![ssl image](https://github.com/shekharnandal/ec2-hosted/blob/main/Screenshot%202025-11-21%20133804.png?raw=true)
+
 
 
 Your site is now secure with SSL.
